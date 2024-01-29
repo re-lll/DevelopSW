@@ -1,2 +1,8 @@
+def a():
+    print("hello world") 
+
 for i in range(10):
-      print("hello world") 
+    a()
+
+def vivaMechMat():
+    print("Viva Mech-mat faculty")
